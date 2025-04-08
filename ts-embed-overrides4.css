@@ -20,3 +20,7 @@
   display: none !important;
 /*   border: 1px solid blue; */
 }
+
+.pinboard-module__pinboardPage.layout-module__vertical {
+  margin-top: 16px !important;
+}
