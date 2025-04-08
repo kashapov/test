@@ -11,12 +11,12 @@
 /*   border: 1px solid blue; */
 }
 
-.pinboard-header-module__pinboardHeaderContainer.layout-module__vertical {
+/* .pinboard-header-module__pinboardHeaderContainer.layout-module__vertical {
   border: 1px solid green;
-}
+} */
 
 .pinboard-header-module__pinboardHeaderContainer
   > .layout-module__vertical {
-/*   display: none !important; */
-  border: 1px solid blue;
+  display: none !important;
+/*   border: 1px solid blue; */
 }
