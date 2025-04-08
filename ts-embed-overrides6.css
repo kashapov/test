@@ -22,7 +22,9 @@
 }
 
 .pinboard-module__pinboardPage.layout-module__vertical {
-  margin: 0px -24px !important;
+/*   margin: 0px -24px !important; */
+  margin-left: -24px !important;
+
 }
 
 .pinboard-header-module__embedStickyPinboardHeader {
