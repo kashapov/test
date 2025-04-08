@@ -22,5 +22,9 @@
 }
 
 .pinboard-module__pinboardPage.layout-module__vertical {
-  margin-top: 16px !important;
+  margin: 0px -24px !important;
+}
+
+.pinboard-header-module__embedStickyPinboardHeader {
+    width: calc(100% - 0.5rem) !important;
 }
