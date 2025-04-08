@@ -3,14 +3,14 @@
 .ts-liveboard-header,
 .ts-embed-filters {
   /*display: none !important;*/
-  border: 1px solid red;
+/*   border: 1px solid red; */
 }
 
 .pinboard-header-module__pinboardHeader.pinboard-header-module__pinboardLbEmbedHeader.layout-module__vertical {
-  /*display: none !important;*/
-  border: 1px solid blue;
+  display: none !important;
+/*   border: 1px solid blue; */
 }
 
-.layout-module__vertical {
+.pinboard-header-module__pinboardHeaderContainer.layout-module__vertical {
   border: 1px solid green;
 }
