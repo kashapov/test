@@ -13,6 +13,6 @@
 
 .dx-pivotgrid-horizontal-headers, .dx-pivotgrid-fields-area {
 /*     border: 1px solid blue !important; */
-  background: #e5ebeb;
+  background: #e5ebeb !important;
 }
 
