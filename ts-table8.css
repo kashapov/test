@@ -7,9 +7,10 @@
 }
 
 .dx-data-header {
-  border: 1px solid red !important;
+/*   border: 1px solid red !important; */
 }
 
 .dx-pivotgrid-fields-area {
-    border: 1px solid blue !important;
+/*     border: 1px solid blue !important; */
+  background: #e5ebeb;
 }
