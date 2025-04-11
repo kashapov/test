@@ -1,0 +1,15 @@
+.dx-word-wrap {
+  // border: 1px solid red !important;
+}
+
+.footer-module__footerContainer {
+  display: none !important;
+}
+
+.dx-data-header {
+  border: 1px solid red !important;
+}
+
+.dx-pivotgrid-fields-area {
+    border: 1px solid blue !important;
+}
