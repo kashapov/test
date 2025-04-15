@@ -16,6 +16,6 @@
   background: #e5ebeb !important;
 }
 
-.ag-theme-alpine {
+.ag-theme-alpine .ag-header-viewport {
   border-bottom: 1px solid #EAEDF2 !important;
 }
