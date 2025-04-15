@@ -17,5 +17,5 @@
 }
 
 .ag-theme-alpine {
-  border-bottom: 1px solid #EAEDF2;
+  border-bottom: 1px solid #EAEDF2 !important;
 }
