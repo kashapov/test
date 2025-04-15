@@ -1,4 +1,4 @@
-.dx-word-wrap {
+.dx-word-wrap, .ag-header {
   // border: 1px solid red !important;
   border-top: 2px solid #215A54 !important;
 }
@@ -11,7 +11,7 @@
 /*   border: 1px solid red !important; */
 }
 
-.dx-pivotgrid-horizontal-headers, .dx-pivotgrid-fields-area {
+.dx-pivotgrid-horizontal-headers, .dx-pivotgrid-fields-area, .ag-header {
 /*     border: 1px solid blue !important; */
   background: #e5ebeb !important;
 }
