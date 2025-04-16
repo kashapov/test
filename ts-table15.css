@@ -19,3 +19,13 @@
 .ag-theme-alpine .ag-header-viewport {
   border-bottom: 1px solid #EAEDF2 !important;
 }
+
+/* Hygienist Production table */
+div[aria-colindex="1"], div[aria-colindex="2"] {
+  color: gray !important;
+}
+
+div[aria-colindex="3"],div[aria-colindex="4"],div[aria-colindex="5"] {
+  font-weight: 600 !important;
+}
+/* END Hygienist Production table */
