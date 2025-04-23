@@ -15,6 +15,5 @@
 }
 
 .button-module__backgroundColored {
-  border: 1px solid red !important;
   background-color: #e5ebeb !important;
 }
