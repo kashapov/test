@@ -13,3 +13,7 @@
 .ag-theme-alpine .ag-header-viewport {
   border-bottom: 1px solid #EAEDF2 !important;
 }
+
+.button-module__backgroundColored .button-module__primary {
+  border: 1px solid red !important;
+}
